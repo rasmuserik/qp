@@ -1,0 +1,13 @@
+{
+  "name": "qp",
+  "description": "Collection of utility functions",
+  "homepage": "https://github.com/rasmuserik/qp",
+  "author": {"name": "Rasmus Erik Voel Jensen", "url": "http://rasmuserik.com"},
+  "version": "0.0.1",
+  "git": "https://github.com/rasmuserik/qp.git",
+  "packages": {
+  },
+  "scripts": {
+      "test": "npm install meteorite"
+  }
+}
