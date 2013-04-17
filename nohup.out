@@ -1,0 +1,60 @@
+
+[1m[37mStand back while Meteorite does its thing[39m[22m
+smart.json changed.. installing from smart.json
+
+[33mInstalling Meteor[39m
+
+  [90mbranch: https://github.com/meteor/meteor.git#master[39m
+
+[33mInstalling smart packages[39m
+
+
+[1m[37mDone installing smart packages[39m[22m
+
+[32mOk, everything's ready. Here comes Meteor![39m
+
+Can't listen on port 3000. Perhaps another Meteor is running?
+
+Running two copies of Meteor in the same application directory
+will not work. If something else is using port 3000, you can
+specify an alternative port with --port <port>.
+
+[1m[37mStand back while Meteorite does its thing[39m[22m
+smart.json changed.. installing from smart.json
+
+[33mInstalling Meteor[39m
+
+  [90mbranch: https://github.com/meteor/meteor.git#master[39m
+
+[33mInstalling smart packages[39m
+
+
+[1m[37mDone installing smart packages[39m[22m
+
+[32mOk, everything's ready. Here comes Meteor![39m
+
+Can't listen on port 3000. Perhaps another Meteor is running?
+
+Running two copies of Meteor in the same application directory
+will not work. If something else is using port 3000, you can
+specify an alternative port with --port <port>.
+
+[1m[37mStand back while Meteorite does its thing[39m[22m
+smart.json changed.. installing from smart.json
+
+[33mInstalling Meteor[39m
+
+  [90mbranch: https://github.com/meteor/meteor.git#master[39m
+
+[33mInstalling smart packages[39m
+
+
+[1m[37mDone installing smart packages[39m[22m
+
+[32mOk, everything's ready. Here comes Meteor![39m
+
+[[[[[ ~/qp ]]]]]
+
+=> Meteor server running on: http://localhost:3000/
+
+[1m[37mStand back while Meteorite does its thing[39m[22m
