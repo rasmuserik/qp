@@ -1,4 +1,4 @@
-# Setup
+# ![logo](https://solsort.com/_logo.png) Setup
 
     @qp ||= {}
     qp.hello = true
